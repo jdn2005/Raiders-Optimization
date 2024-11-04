@@ -1,5 +1,4 @@
 Raider's Optimization is my version of hhpeng's Wynnbuilder.
-Raider's Optimization is built in Godot 4.3
 
 What does this tool offer that Wynnbuilder does not have? Currently Wynnbuilder has no Aspect or correct Tomes and because of that I have decided to make my own. 
 It is in its alpha stage at the moment so do not expect much.
@@ -20,3 +19,14 @@ Buffs, Raid Buffs, Trinket Buffs
 Tomes
 Crafteds
 Auto skill point allocation
+
+
+
+
+
+
+
+
+
+Raider's Optimization is built in Godot 4.3
+Maintained and made by jaden0303 on discord.
